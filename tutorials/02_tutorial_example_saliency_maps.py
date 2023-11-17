@@ -1,6 +1,6 @@
 import os
 
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 from omegaconf import OmegaConf
 
 from neuralDecoder.neuralSequenceDecoder import NeuralSequenceDecoder
